@@ -1,0 +1,6 @@
+@SilvaAPI_HostAddress = http://localhost:5195
+
+GET {{SilvaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

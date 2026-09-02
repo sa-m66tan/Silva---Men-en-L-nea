@@ -1,0 +1,15 @@
+## Compilados y ejecutables de .NET
+bin/
+obj/
+[D-d]ebug/
+[R-r]elease/
+
+## Visual Studio & VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+## Archivos de entorno local / secretos
+appsettings.Development.json
+*.local.json
